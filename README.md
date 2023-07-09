@@ -1,1 +1,2 @@
 # PowerBIDashboards
+!(dashboard.png)
