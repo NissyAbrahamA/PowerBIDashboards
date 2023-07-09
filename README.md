@@ -1,2 +1,2 @@
 # PowerBIDashboards
-![Sample Dashboard visualisation](dashboard.png)
+![Sample Dashboard visualisation](Dashboard.png)
